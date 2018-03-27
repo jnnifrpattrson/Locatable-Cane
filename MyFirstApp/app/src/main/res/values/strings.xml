@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Locatable Cane</string>
+    <string name="find_my_cane">Find My Cane</string>
+    <string name="step_count_label">Total Steps</string>
+    <string name="step_count_val"></string>
+    <string name="last_act_label">Last Activity</string>
+    <string name="last_act_val"></string>
+</resources>
